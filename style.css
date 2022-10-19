@@ -37,7 +37,7 @@ body {
   flex-wrap: wrap;
   background-color: #e7dfc2;
   font-style: Alumni Sans Inline One;
-  border: grey solid 4px;
+  border: grey solid 2px;
 }
 a {
   text-decoration: none;
@@ -85,8 +85,11 @@ img {
     font-size: 2em;
   }
   h3{
-    
    
+   
+  }
+  section{
+    font-size: medium;
   }
  
   }
